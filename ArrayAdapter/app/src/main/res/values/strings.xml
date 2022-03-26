@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    <string-array name="first_names" >
+        <item>Petya</item>
+        <item>Ivan</item>
+        <item>Татьяна</item>
+        <item>Элина</item>
+        <item>Фатима</item>
+        <item>Ксения</item>
+        <item>София</item>
+        <item>Даниил</item>
+        <item>Ульяна</item>
+        <item>Вера</item>
+        <item>Тимофей</item>
+    </string-array>
+    <string-array name="last_names">
+        <item>Petrov</item>
+        <item>Ivanov</item>
+        <item>Горшкова</item>
+        <item>Юдина</item>
+        <item>Медведева</item>
+        <item>Черепанова</item>
+        <item>Зайцева</item>
+        <item>Румянцев</item>
+        <item>Дмитриева</item>
+        <item>Пантелеева</item>
+        <item>Макаров</item>
+    </string-array>
+</resources>
